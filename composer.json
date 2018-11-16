@@ -1,0 +1,8 @@
+{
+    "name": "vagrant/inetpatners",
+    "autoload": {
+        "files": [ "functions/functions.php" ],
+        "psr-4": { "": "./" }
+    },
+    "require": {}
+}
